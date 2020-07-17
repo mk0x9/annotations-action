@@ -5,7 +5,7 @@ branding:
   icon: 'edit-3'
   color: 'blue'
 inputs:
-  secret:
+  token:
     description: 'The GITHUB_TOKEN secret'
   path:
     description: 'The JSON file to consume'
