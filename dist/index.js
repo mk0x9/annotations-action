@@ -110,7 +110,8 @@ function isPlainObject(o) {
 }
 
 function getUserAgent() {
-    return navigator.userAgent;
+    // return navigator.userAgent;
+    return '';
 }
 
 var distWeb = /*#__PURE__*/Object.freeze({
